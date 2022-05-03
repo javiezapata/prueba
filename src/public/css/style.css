@@ -1,0 +1,41 @@
+#hea{
+    border: 10px;
+    padding: 10px;
+    width: 800px;
+    background-color: white;
+    min-width: 600px;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   }
+
+   header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   }
+
+
+
+.botones{
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.botones button{
+    margin: 20px;
+    width: 500px;
+    background-color: blue;
+    border-radius: 10px;
+    height: 50px;
+    border-color: gray;
+    color:aliceblue;
+    font-size: 25px;;
+}
+
+body{
+    background-color:rgb(91, 209, 215);
+}

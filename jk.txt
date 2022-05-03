@@ -1,0 +1,4 @@
+BGT
+1234
+
+mongodb+srv://BGT:<password>@cluster0.qduer.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
